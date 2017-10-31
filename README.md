@@ -37,7 +37,7 @@ and logging in with `admin@laravel-enso.com` and `password`.
 
 4. Run `php artisan migrate`
 
-5. Login into the project with user: `admin@laravel-enso.com`, password: `password`
+5. Login into the project with user: `admin@login.com`, password: `password`
 
 6. (optional) Setup the configuration files as needed, in `config/enso/*.php`
 
